@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-torch
 transformers
-whisper
+torch
 pydantic
+huggingface_hub[hf_xet]
