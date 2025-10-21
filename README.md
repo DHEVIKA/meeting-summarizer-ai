@@ -87,3 +87,17 @@ HuggingFace Hub - model downloading and caching
 <img width="1913" height="955" alt="Screenshot 2025-10-21 152724" src="https://github.com/user-attachments/assets/787d0e7e-7a56-4fc1-8f25-5bd0242db2e3" />
 <img width="1899" height="944" alt="Screenshot 2025-10-21 152744" src="https://github.com/user-attachments/assets/9d6533f2-c7ce-4d2e-b368-7fc8de442789" />
 <img width="1898" height="959" alt="Screenshot 2025-10-21 152835" src="https://github.com/user-attachments/assets/a5fdd371-41c5-47b2-974e-7d6925272f60" />
+
+📈 WEBSITE
+🔹 Features:
+
+Summarizes meeting transcripts instantly
+
+Easy-to-use web interface
+
+Accessible online: [Hugging Face Space link]
+
+💡 Technologies used: Python, Gradio, Hugging Face Transformers
+<img width="1917" height="957" alt="Screenshot 2025-10-21 172616" src="https://github.com/user-attachments/assets/4dfa1aa2-e696-4211-bdda-61d7a1288bf1" />
+
+<img width="1919" height="963" alt="Screenshot 2025-10-21 172926" src="https://github.com/user-attachments/assets/2fae235f-562a-4b9f-890b-37b87410f99a" />
